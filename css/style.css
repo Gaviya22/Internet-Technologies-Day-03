@@ -16,7 +16,7 @@ body {
     background-color: purple;
     color: white;
     text-align: center;
-    font-family:cursive;
+    font-family: cursive;
     font-size: 35px;
     letter-spacing: 2cap;
     text-decoration: underline dashed gold;
@@ -26,6 +26,14 @@ body {
     background-color: darkorange;
     color: white;
     text-align: center;
+    /* padding: 30px; */
+    
+    /* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px; */
+
+    padding: 20px 60px 20px 60px;
 }
 
 #pg-background {
