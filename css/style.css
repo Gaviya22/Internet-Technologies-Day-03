@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     background-color: purple;
     color: white;
     text-align: center;
@@ -10,4 +10,12 @@ p {
 
 body {
     background-color: black;
+} */
+
+.bg-1-h1 {
+    background-color: purple;
+}
+
+.bg-2-h1 {
+    background-color: blue;
 }
