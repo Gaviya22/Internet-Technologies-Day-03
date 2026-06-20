@@ -16,6 +16,10 @@ body {
     background-color: purple;
     color: white;
     text-align: center;
+    font-family:cursive;
+    font-size: 35px;
+    letter-spacing: 2cap;
+    text-decoration: underline dashed gold;
 }
 
 .bg-2-h1 {
@@ -29,8 +33,8 @@ body {
     color: white;
 }
 
-* {
+/* * {
     background-color: black;
     margin: 0;
     padding: 0;
-}
+} */
