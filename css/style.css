@@ -14,8 +14,12 @@ body {
 
 .bg-1-h1 {
     background-color: purple;
+    color: white;
+    text-align: center;
 }
 
 .bg-2-h1 {
-    background-color: blue;
+    background-color: darkorange;
+    color: white;
+    text-align: center;
 }
